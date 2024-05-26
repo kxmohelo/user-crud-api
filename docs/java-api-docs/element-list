@@ -1,0 +1,9 @@
+com.kamo.user_crud
+com.kamo.user_crud.controllers
+com.kamo.user_crud.entities
+com.kamo.user_crud.exceptions
+com.kamo.user_crud.handlers
+com.kamo.user_crud.initialisers
+com.kamo.user_crud.repositories
+com.kamo.user_crud.services
+com.kamo.user_crud.validators
